@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Mohan Kumar
+# 🚀 Hi, I'm Mohan Krishna
 
 ### AI/ML Engineer | AI Agent Developer | Backend Developer | Open Source Enthusiast
 
