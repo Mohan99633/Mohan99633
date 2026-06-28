@@ -73,7 +73,8 @@ Designed a detailed horror game system with gameplay mechanics, story design, an
 ---
 
 ## ⚡ Fun Fact
-My favorite car is the **Mercedes-Maybach S680** 🚘
+
+🧠 I enjoy exploring the latest AI research and turning it into real-world applications.
 
 ---
 
