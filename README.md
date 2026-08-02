@@ -36,16 +36,26 @@ Passionate about solving real-world problems using AI, Machine Learning, and Sof
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🤖 AI Agent Systems
-Developing autonomous AI agents capable of performing tasks, automation, and tool integrations.
+### ⭐ Luna – Autonomous AI Agent System
+An autonomous AI platform that orchestrates intelligent workflows using AI agents, REST APIs, and cloud infrastructure.
 
-### 📡 Bluetooth Monitoring System
-Python-based Linux system for monitoring nearby Bluetooth devices with logging, offline storage, and server synchronization.
+**Tech Stack:** Python • OpenClaw • Docker • Google Cloud • Linux • REST APIs
 
-### 🎮 Horror Game Design Project
-Designed a detailed horror game system with gameplay mechanics, story design, and immersive environment planning.
+---
+
+### 💰 AIDock – AI Cost Optimizer
+A full-stack AI platform that analyzes model usage and recommends the most cost-effective AI providers while reducing inference costs.
+
+**Tech Stack:** Python • FastAPI • React • OpenRouter
+
+---
+
+### ✈️ TripGenie AI – Intelligent Travel Planning Platform
+An AI-powered travel planning application that generates personalized itineraries, integrates travel APIs, and features an interactive 3D globe experience.
+
+**Tech Stack:** Next.js • FastAPI • Three.js • AI Agents
 
 ---
 
