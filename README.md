@@ -1,86 +1,65 @@
-# 🚀 Hi, I'm Mohan Krishna
+# Mohan Krishna Reyya
 
-### AI/ML Engineer | AI Agent Developer | Backend Developer | Open Source Enthusiast
+**Software Engineering | Backend Development | AI/ML | Autonomous AI Agents | Cloud Engineering | Full-Stack Development**
 
-I build intelligent systems, AI agents, automation tools, and scalable backend applications.
-Passionate about solving real-world problems using AI, Machine Learning, and Software Engineering.
-
----
-
-## 💡 About Me
-- 🎓 4th Year CSE Student
-- 🤖 Interested in AI Agents & Autonomous Systems
-- 🧠 Exploring LLMs, RAG, Automation & Multi-Agent Systems
-- ⚙️ Building AI-powered tools and backend systems
-- 🐧 Linux & Cloud Enthusiast
-- 🚀 Open Source Contributor
+I am a final-year Computer Science student specializing in building highly scalable REST APIs, robust client-server applications, and cloud-native services using Python, Java, and Google Cloud Platform. I have a proven track record of writing clean, maintainable code throughout the Software Development Life Cycle (SDLC), and am deeply passionate about optimizing system performance and deploying reliable, production-ready software solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### Languages
-`Python` `Java` `JavaScript` `C`
-
-### AI/ML
-`PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV` `Transformers`
-
-### Backend & DevOps
-`FastAPI` `Flask` `Node.js` `Docker` `Linux` `Git`
-
-### Databases
-`MySQL` `MongoDB` `SQLite`
-
-### Cloud & Tools
-`Google Cloud` `GitHub Actions` `REST APIs` `Postman`
+- **Programming Languages:** Python, Java, JavaScript, C, C++, SQL
+- **Software Engineering:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Client-Server Architecture, System Design, SDLC
+- **Backend Development:** RESTful APIs, FastAPI, Flask, Node.js, Web Services, Database Schema Design
+- **Frontend Development:** React.js, Next.js, HTML, CSS, Bootstrap, Three.js, Responsive UI
+- **Cloud & Tools:** Google Cloud Platform (GCP), Docker, Git, Linux, Firebase, Continuous Integration/Deployment (CI/CD)
+- **AI & Machine Learning:** NLP, LLMs, RAG, LangChain, Scikit-learn, Pandas, NumPy
+- **AI Agents & Automation:** OpenClaw, OpenRouter, Workflow Automation, API Orchestration
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-### 🤖 AI Agent Systems
-Developing autonomous AI agents capable of performing tasks, automation, and tool integrations.
+### Luna – Autonomous AI Agent System
+*Autonomous cloud service for intelligent workflow automation and complex task orchestration.*
+- **Technologies:** Python, OpenClaw, Google Cloud, Linux, Docker
+- **Achievements:**
+  - Engineered an autonomous cloud service implementing a robust client-server architecture.
+  - Architected and developed scalable RESTful APIs for seamless data synchronization between large language models and external endpoints, ensuring high performance and fault tolerance.
+  - Streamlined deployment pipelines by containerizing the application with Docker and hosting on a Linux-based Google Cloud (GCP) instance, achieving 24/7 system reliability.
+- **Repository:** [GitHub](https://github.com/Mohan99633/Luna)
 
-### 📡 Bluetooth Monitoring System
-Python-based Linux system for monitoring nearby Bluetooth devices with logging, offline storage, and server synchronization.
+### AIDock – AI Cost Optimizer
+*Full-stack platform and browser extension to analyze AI model usage and recommend highly cost-efficient computing alternatives.*
+- **Technologies:** Python, FastAPI, React, OpenRouter
+- **Achievements:**
+  - Built a platform using software design patterns to provide cost-efficient computing alternatives.
+  - Developed and integrated robust REST APIs to aggregate real-time data across multiple third-party providers, significantly optimizing inference costs and reducing query latency.
+  - Designed a scalable backend infrastructure focused on seamless API integration, secure data handling, and writing clean, maintainable code utilizing standard software engineering principles.
+- **Repository:** [GitHub](https://github.com/Mohan99633/AIDock)
 
-### 🎮 Horror Game Design Project
-Designed a detailed horror game system with gameplay mechanics, story design, and immersive environment planning.
-
----
-
-## 📈 Currently Learning
-- AI Agents & Multi-Agent Architectures
-- Robotics & Intelligent Systems
-- Advanced Backend Engineering
-- LLM Fine-Tuning & RAG Pipelines
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/mohan-krishna-reyya-823a0b235
-- 💻 GitHub: https://github.com/Mohan99633
-- 📧 Email: mohankrishnareyyi.888@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan99633&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan99633&layout=compact)
+### TripGenie AI – Intelligent Travel Planning Platform
+*Comprehensive full-stack web application to generate dynamic travel itineraries.*
+- **Technologies:** Next.js, FastAPI, AI Agents, Three.js
+- **Achievements:**
+  - Developed a highly available and responsive client-server architecture.
+  - Engineered complex interactive frontend components, including a 3D globe using Three.js, demonstrating advanced UI/UX visualization skills and frontend performance optimization.
+  - Built secure REST APIs to aggregate external travel data and integrate AI agents, implementing efficient data structures to ensure fast data retrieval and a seamless user experience.
+- **Repository:** [GitHub](https://github.com/Mohan99633/TripGenie-AI)
 
 ---
 
-## ⚡ Fun Fact
+## GitHub Statistics
 
-🧠 I enjoy exploring the latest AI research and turning it into real-world applications.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./metrics-light.svg">
+  <img alt="GitHub Metrics" src="./metrics-light.svg" width="100%">
+</picture>
 
 ---
 
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
+## Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/mohan-krishna-reyya-823a0b235](https://www.linkedin.com/in/mohan-krishna-reyya-823a0b235)
+- **Email:** [mohankrishnareyyi.888@gmail.com](mailto:mohankrishnareyyi.888@gmail.com)
