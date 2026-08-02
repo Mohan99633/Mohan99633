@@ -45,10 +45,11 @@ An autonomous AI platform that orchestrates intelligent workflows using AI agent
 
 ---
 
-### 💰 AIDock – AI Cost Optimizer
-A full-stack AI platform that analyzes model usage and recommends the most cost-effective AI providers while reducing inference costs.
+### 💰 AIDock – AI Cost Optimizer Extension
 
-**Tech Stack:** Python • FastAPI • React • OpenRouter
+An AI-powered browser extension that compares AI models across providers and recommends the most cost-effective option based on price, speed, and capabilities.
+
+**Tech Stack:** React • FastAPI • Python • OpenRouter • Browser Extension APIs
 
 ---
 
